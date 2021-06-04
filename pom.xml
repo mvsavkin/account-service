@@ -19,7 +19,7 @@
     <mysql.version>8.0.16</mysql.version>
     <junit.version>4.11</junit.version>
     <mockito.version>2.10.0</mockito.version>
-    <httpcomponents.version>4.5.9</httpcomponents.version>
+    <httpcomponents.version>4.5.13</httpcomponents.version>
   </properties>
 
   <dependencies>
